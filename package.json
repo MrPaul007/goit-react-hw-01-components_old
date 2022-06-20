@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-01-components",
+  "name": "goit-react-hw-01-components_old",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MrPaul007.github.io/goit-react-hw-01-components",
+  "homepage": "https://MrPaul007.github.io/goit-react-hw-01-components_old",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
